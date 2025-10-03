@@ -25,4 +25,9 @@ void main() {
   // Print weight and height
   print(weight);
   print(height);
+
+  var isStudent;
+  print(isStudent); // This will print 'null' since it's uninitialized
+  isStudent = true;
+  print(isStudent); // This will print 'true'
 }
