@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 void main() {
   // Creating lists with explicit types
   var list1 = [1, 2, 3]; // List of int (type inferred)
